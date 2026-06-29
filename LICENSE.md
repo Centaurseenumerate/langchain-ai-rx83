@@ -1,4 +1,4 @@
-# 
+# Código abierto LangChain scripts. Con UI personalizable y ejecución de código — optimizado para el máximo rendimiento y eficiencia.
 
 
 
